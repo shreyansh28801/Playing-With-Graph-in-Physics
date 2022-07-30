@@ -1,0 +1,2 @@
+Distance-time graph is the plot of distance travelled by a body against time. So it will tell us about the journey made by a body and its speed. Below is an example of a distance-time graph, if it is a straight horizontal line than the body is stationary, its speed is zero, if the line is diagonal than its moving with a constant speed and if it is anything other than a straight line then the speed is varying.
+this is all about s-t graph.This is basics of classical physicsThat's it ...                     This is creative repository.

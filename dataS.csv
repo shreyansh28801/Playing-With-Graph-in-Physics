@@ -1,0 +1,5 @@
+Element,AtomicNo,Isotope,HalfLife,Energy,NaturalConcentration
+Uranium,92,U238,4.47*10^9,4.15,3.0*10^-6
+Thorium,90,Th232,1.41*10^10,3.95,1.0*10^-10
+Radium,88,226Ra226,1.6*10^3,4.6,1.0*10^-13
+Polonium,84,Po210,0.38,5.3,2.2*10^-17

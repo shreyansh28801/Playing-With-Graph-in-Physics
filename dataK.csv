@@ -1,0 +1,11 @@
+Body,Mass,Radius,Acceleration_due_to_Gravity,Density
+Mercury,0.33,2439.5,3.7,5427
+Venus,4.87,6052,8.9,5243
+Earth,5.97,6378,9.8,5514
+Moon,0.073,1737.5,1.6,3340
+Mars,0.642,3396,3.7,3933
+Jupiter,1898,71492,23.1,1326
+Saturn,568,60268,9,687
+Uranus,86.8,25559,8.7,1271
+Neptune,102,24764,11,1638
+Pluto,0.0146,1185,0.7,2095
