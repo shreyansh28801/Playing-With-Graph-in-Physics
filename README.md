@@ -13,10 +13,11 @@ The project files can be executed by running the main_file.py script. This scrip
 ## Screenshots of Project
 
 
-
-
-![My project](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/3a952971-020e-4ac6-980d-838061cb78a0)
-![My project](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/849031c1-224b-4233-9d8a-d139ae83236c)
+<img width="352" alt="Capture" src="https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/07fa4f3e-fb7e-4de0-887b-d06c4d6734bf">
+![Screenshot 2023-05-31 113150](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/bfd0de87-a8f7-4d94-b94a-85f33496aeca)
+![Screenshot 2023-05-31 113220](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/b04d2ff1-64a5-4415-bbb6-3378e4a9262c)
+![Screenshot 2023-05-31 113240](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/b396ca1e-a9ed-4759-80c6-a1be2b3d84a7)
+![Screenshot 2023-05-31 113304](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/d6665e1b-2803-4058-bc71-db6de94178e1)
 
 
 
