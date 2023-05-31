@@ -12,7 +12,7 @@ The project files can be executed by running the main_file.py script. This scrip
 
 ## Screenshots of Project
 
-![alt text](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/07fa4f3e-fb7e-4de0-887b-d06c4d6734bf)
+![alt text](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/7ef8ccb3-cd1e-4161-b20a-07f88cfdf1b8)
 
 
 ![alt text](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/bfd0de87-a8f7-4d94-b94a-85f33496aeca)
