@@ -13,10 +13,10 @@ The project files can be executed by running the main_file.py script. This scrip
 ## Screenshots of Project
 
 
-![My project](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/9f23d006-5530-4702-b672-2a2a35c8da03)
-![My project](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/e847573a-45e6-4324-bc1d-c15eb11e932d)
 
 
+![My project](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/3a952971-020e-4ac6-980d-838061cb78a0)
+![My project](https://github.com/shreyansh28801/Playing-With-Graph-in-Physics/assets/81692600/849031c1-224b-4233-9d8a-d139ae83236c)
 
 
 
